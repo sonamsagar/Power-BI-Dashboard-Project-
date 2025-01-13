@@ -1,1 +1,2 @@
 # Power-BI-Dashboard-Project-
+Designed and developed an interactive dashboard to monitor and analyze online sales data, leveraging advanced parameters for in-depth analysis through drill-downs, filters, and slicers. Established connections, joined new tables, and applied calculations to manipulate data effectively, enabling user-driven insights. Utilized a variety of customized visualizations to deliver a dynamic and comprehensive data exploration experience.
